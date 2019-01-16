@@ -35,4 +35,7 @@ public class Calculator {
         return  0 ; 
     }
     
+    void infLoop(){
+        while (true);
+    }
 }

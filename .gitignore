@@ -4,3 +4,7 @@ Unit Testing/TestingProject/nbproject/
 *.class
 
 Unit Testing/TestingProject/build/**
+
+Unit Testing/TestingProject/\.idea/
+
+Unit Testing/Online/\.idea/
