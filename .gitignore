@@ -1,0 +1,6 @@
+
+*.pyc
+
+OrderWebApp/venv/bin/
+
+**/venv/**
