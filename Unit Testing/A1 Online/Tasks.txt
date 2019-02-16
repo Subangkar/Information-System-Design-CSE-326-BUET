@@ -1,0 +1,11 @@
+src.Employee src.Manager Test:
+
+	*Write all test cases with well-structured assertion messages. 
+	* You can write necessary methods/ variables in these class if necessary
+
+1. Perform equivalence partitioning testing in  calculateYearlySalary() and get_increment() methods in src.Employee class.
+2. Perform test whether we can get the manager name of an employee. Make sure to handle exceptions. 
+3. Test the getEmployees() method in manager class. For example, Create manager M1, M2 and Employyes E1, E2, E3, E4, E5; where M1 manages E1, E2 and M2 manages E3, E4, E5. 
+4. Perform unit testing on  get_increment() method in src.Manager class.
+5. Write a test suite to run all of them together
+
