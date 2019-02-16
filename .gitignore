@@ -8,3 +8,10 @@ Unit Testing/TestingProject/build/**
 Unit Testing/TestingProject/\.idea/
 
 Unit Testing/Online/\.idea/
+
+
+*.pyc
+
+OrderWebApp/venv/bin/
+
+**/venv/**
